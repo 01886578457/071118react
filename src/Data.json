@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Trần Minh Long",
+        "phone": "01886578457",
+        "role":1
+    },
+    {
+        "id": 2,
+        "name": "Trần Minh Duy",
+        "phone": "091234567",
+        "role":1
+    },
+    {
+        "id": 3,
+        "name": "Trần Minh Nhặt",
+        "phone": "0123456789",
+        "role":2
+    },
+    {
+        "id": 4,
+        "name": "Lucky Luck",
+        "phone": "0901247567",
+        "role":3
+    }
+]
